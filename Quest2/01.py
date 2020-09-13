@@ -1,3 +1,4 @@
+
 sair = 2
 while sair == 2:
     print('{:-^60}\n< 1 > Somar 2 Numeros\n< 2 > Subtrair 2 Numeros\n< 3 > Multiplicar 2 Numeros\n< 4 > Dividir 2 Numeros\n'.format('-'))

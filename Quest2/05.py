@@ -1,3 +1,5 @@
+#Altere o programa anterior permitindo ao usuário informar as populações e as taxas de crescimento iniciais. Valide a entrada e permita repetir a operação.
+
 for c in range (0,2):
     c1 = float(input('Digite a população do Pais 1: '))
     t1 = float(input('Digite a % Taxa de Crescimentos do Pais 1: '))

@@ -1,3 +1,5 @@
+#Altere o programa anterior para mostrar no final a soma dos números.
+
 n1 = int(input('Digite um numero inteiro:'))
 n2 = int(input('Digite outro numero inteiro:'))
 soma: int = 0

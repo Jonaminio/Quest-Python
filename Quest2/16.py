@@ -1,3 +1,4 @@
+#Faça um programa que calcule as raízes de uma equação do segundo grau, na forma ax2 + bx + c. O programa deverá pedir os valores de a, b e c e fazer as consistências, informando ao usuário nas seguintes situações:
 #Teste 1 Raiz A = 1 / B =  -4 / C = 4 | r == 2
 #Teste 2 Raizes A = 1 / B = -5 / C = 6 | r1 == 3 , r2 == 2
 
