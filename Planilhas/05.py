@@ -15,7 +15,7 @@ sim = 0
 nao = 0
 #a coluna para ficar linear nos cabeçalhos
 coluna =5
-
+#para não repetir o cod com "Aluno 1,2,3,4 ec..."
 for y in range(1, 11): #Para de aluno 1 até aluno 10
     aluno = ["Aluno"]
     alunonum = [y] #aluno recebe 1,2,3.....10
