@@ -21,6 +21,7 @@ for x in range(1,40):
     elif conteudo.value == "Aluno 5" and ponteirocont.value == "NÃO":
         nao += 1
 
+
 print(sim)
 print(nao)
 #botando conteúdo

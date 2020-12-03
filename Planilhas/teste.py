@@ -1,10 +1,8 @@
-x: str
-for x in range(20):
-    ponteiro = []
-    ponteiro = "B"
-    a = []
-    a[0] = x
-    ponteiro += a[0]
-    print(ponteiro)
+aluno = ["Aluno"]
+alunonum = [1]
+aluno += alunonum
+str(aluno)
+#uniao = " ".join([str(_) for _ in aluno])
+#str(uniao)
+print(aluno)
 
-print(ponteiro)
